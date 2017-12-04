@@ -4,12 +4,4 @@ Repo til at spille Multiplayer git
 
 * Team captain: SuperMads
 * MVP: Thomas
-* Kristian was here - and did REALLY unimportant work...
-   ._.
-
-HEY!!§
-
----
-
-
-Thomas is not a quitter - I'm still here
+* Kristian was here - and made one GREAT house
