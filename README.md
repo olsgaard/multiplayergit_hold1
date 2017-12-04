@@ -4,7 +4,7 @@ Repo til at spille Multiplayer git
 
 * Team captain: SuperMads
 * MVP: Thomas
-* Kristian was here - and did REALLY important work...
+* Kristian was here - and did REALLY unimportant work...
 
 ---
 
