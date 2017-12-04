@@ -2,9 +2,9 @@
 Repo til at spille Multiplayer git
 
 
-Team captain: SuperMads
-MVP: Thomas
-Kristian was here
+* Team captain: SuperMads
+* MVP: Thomas
+* Kristian was here
 
 ---
 
